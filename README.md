@@ -7,8 +7,6 @@ Sou Victor Luis, estudante de Ciência da Computação na Universidade Vila Velh
 # 🤝 Vamos conversar?
 Se você quiser trocar ideias, colaborar ou apenas bater um papo, sinta-se à vontade para me chamar no [Email](mailto:victor.luis.romao.santos@gmail.com) ou [Linkedin](https://www.linkedin.com/in/victor-luis-romao-dos-santos/). Estou aberto a conversas sobre projetos, oportunidades ou simplesmente conexões.
 
-# Observação...
-Devido à perda de acesso à minha conta anterior, que mantinha desde 2022, foi necessário criar esta nova conta.
 
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vitin-Luis&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
